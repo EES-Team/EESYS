@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/eesys-app/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/eesys-app/static/js/main.6c09ebcd.chunk.js",
-    "main.js.map": "/eesys-app/static/js/main.6c09ebcd.chunk.js.map",
-    "runtime-main.js": "/eesys-app/static/js/runtime-main.9f4187c0.js",
-    "runtime-main.js.map": "/eesys-app/static/js/runtime-main.9f4187c0.js.map",
-    "static/js/2.01ba090c.chunk.js": "/eesys-app/static/js/2.01ba090c.chunk.js",
-    "static/js/2.01ba090c.chunk.js.map": "/eesys-app/static/js/2.01ba090c.chunk.js.map",
-    "static/js/3.a0604c44.chunk.js": "/eesys-app/static/js/3.a0604c44.chunk.js",
-    "static/js/3.a0604c44.chunk.js.map": "/eesys-app/static/js/3.a0604c44.chunk.js.map",
-    "index.html": "/eesys-app/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/eesys-app/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.01ba090c.chunk.js.LICENSE.txt": "/eesys-app/static/js/2.01ba090c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/eesys-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/EESYS/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/EESYS/static/js/main.6c09ebcd.chunk.js",
+    "main.js.map": "/EESYS/static/js/main.6c09ebcd.chunk.js.map",
+    "runtime-main.js": "/EESYS/static/js/runtime-main.7f4b4ff5.js",
+    "runtime-main.js.map": "/EESYS/static/js/runtime-main.7f4b4ff5.js.map",
+    "static/js/2.01ba090c.chunk.js": "/EESYS/static/js/2.01ba090c.chunk.js",
+    "static/js/2.01ba090c.chunk.js.map": "/EESYS/static/js/2.01ba090c.chunk.js.map",
+    "static/js/3.a0604c44.chunk.js": "/EESYS/static/js/3.a0604c44.chunk.js",
+    "static/js/3.a0604c44.chunk.js.map": "/EESYS/static/js/3.a0604c44.chunk.js.map",
+    "index.html": "/EESYS/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/EESYS/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.01ba090c.chunk.js.LICENSE.txt": "/EESYS/static/js/2.01ba090c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/EESYS/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f4187c0.js",
+    "static/js/runtime-main.7f4b4ff5.js",
     "static/js/2.01ba090c.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.6c09ebcd.chunk.js"
