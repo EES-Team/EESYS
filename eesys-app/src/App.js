@@ -9,6 +9,14 @@ function App() {
         <p>
           ہاں جی جاتکو!!!
         </p>
+       <div>
+       <ol>
+             <li>Create HTML structure.</li>
+             <li>Create navigation</li>
+             <li>Read : https://logrocket.com/</li>
+             <li>Read : Next.js : https://nextjs.org/</li>
+            </ol>
+       </div>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -18,6 +26,7 @@ function App() {
           Learn React
         </a>
       </header>
+   
     </div>
   );
 }
