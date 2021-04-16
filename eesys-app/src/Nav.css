@@ -1,0 +1,12 @@
+.outline{
+    outline-style: none;
+    outline-color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+  }
+  a{
+    color: aqua;
+  }
+  
