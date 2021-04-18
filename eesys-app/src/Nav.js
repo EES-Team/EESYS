@@ -2,7 +2,7 @@ import React from 'react';
 import './Nav.css';
 function Nav() {
     return (
-      <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
+      <nav className="navbar navbar-expand-sm bg-dark navbar-dark shadow">
   {/* <!-- Brand/logo --> */}
   <div className='container'>
   <a className="navbar-brand text-success font-italic font-weight-bold" href="#">EatEat</a>
